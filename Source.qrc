@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/IMG-20220501-WA0006.jpg</file>
+        <file>img/IMG-20220501-WA0007.jpg</file>
+        <file>img/IMG-20220501-WA0008.jpg</file>
+        <file>img/IMG-20220501-WA0009.jpg</file>
+        <file>img/IMG-20220501-WA0010.jpg</file>
+        <file>img/IMG-20220501-WA0011.jpg</file>
+        <file>img/IMG-20220501-WA0012.jpg</file>
+        <file>img/IMG-20220501-WA0015.jpg</file>
+        <file>img/IMG-20220501-WA0016.jpg</file>
+        <file>img/IMG-20220501-WA0017.jpg</file>
+        <file>img/IMG-20220501-WA0019.jpg</file>
+        <file>img/IMG-20220518-WA0080.jpg</file>
+    </qresource>
+</RCC>
